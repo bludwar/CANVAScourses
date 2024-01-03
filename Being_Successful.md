@@ -11,3 +11,7 @@ The biggest advantage is that once you are done for the day - I'd say no later t
 Hand-in-hand with a schedule goes a calendar, e.g. the CANVAS calendar. Set yourself alarms for events, like exams. A reminder when to start reviewing material will save you the stress of late-night studying sessions the night before the exam. I have never understood the fascination with all-nighters before the exam. Form a neuroscience perspective, it's one of the most inefficient and useless ways to study (if you like, I can elaborate on this topic), and, nevertheless, they are often glorified. Get everything done _well before the deadline_ and your results will be better and your life will be far less stressful.
 
 PS: and yes, I wrote this page in July, about 4 weeks before the start of classes...
+
+
+
+[back to last page](./..)
