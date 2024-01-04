@@ -5,3 +5,8 @@ Again, craft your emails carefully in a professional style, with proper salutati
 Curious when you'll get feedback on that assignments or exam? I typically don't forget to grade those... If I haven't posted the results within an hour, it's most likely because I also have exams from a different class to grade, 20 students waiting to be advised, three faculty meetings, and need to prepared labs and lectures... It would, however, be very unusual if it takes longer than 1-2 weeks after the posted due date.
 
 Questions about your grade? Please email. The **CANVAS grade-book** is in my professional opinion confusing and inadequate, often giving you an inaccurate picture. This is why I typically **disable** it.
+
+
+
+
+[back to TOC](./README.md)
