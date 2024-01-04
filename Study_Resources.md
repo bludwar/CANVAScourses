@@ -23,3 +23,8 @@ _The method itself doesn't really matter_, but there are some strategies links t
 *   [Interleaving](http://www.learningscientists.org/blog/2016/8/11-1)
 *   [Concrete Examples](http://www.learningscientists.org/blog/2016/8/25-1)
 *   [Dual Coding](http://www.learningscientists.org/blog/2016/9/1-1)
+
+*   
+
+
+[back to TOC](./README.md)
