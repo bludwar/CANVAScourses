@@ -21,3 +21,7 @@ The start of a 11 year career in basic neuroscience research (to find out more s
 
 In 2014, I joined Longwood and mostly exchanged my lab coat with the lectern to share the wonderful world of science with as many students as I can. There isn't much Neurobiology at Longwood, but if you look closely at what I am teaching, you'll notice a pattern. A lot of Anatomy and physiology, as I am an animal physiologist and anatomy is easy! (I also sneak a lot of neuro into BIOL207 and BIOL301 ;-) And then everything invertebrate (incl. insects), because I have worked with invertebrates for decades as my laboratory animals and learned a whole lot about them.
 
+
+
+[back to TOC](./README.md)
+
