@@ -2,7 +2,6 @@
 
 Welcome to the course. These pages will give you some background information and (hopefully) also serve as a reference for later in the semester. It is your first stop, the first place to look, whenever you have a questions or need help with something. 
 
-- [Information specific to this course]()
 - [Etiquette and about me](./Etiquette_About_Me.md)
 - [How to best talk to me](How_To_Talk_To_Me.md)
 - [Being successful in this class](Being_Successful.md)
