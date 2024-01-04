@@ -18,3 +18,7 @@ While you are probably familiar with CANVAS, here are the basics of where to fin
 *   Student Course Evaluation: You will have the opportunity to provide course feedback through this link.
 
 *   CANVAS grade-book: The **CANVAS grade-book** is in my professional opinion confusing and inadequate, often giving you an inaccurate picture. This is why I typically **disable** it. I'll post available grades by L-number in the first module and you can always email me for an up-to-date grade estimate.
+
+
+
+  [back to TOC](./README.md)
