@@ -27,6 +27,9 @@ General Student support services
 *   The [Dean of Students](http://www.longwood.edu/dos/) advocates for students and can help with e.g. medical leave and even financial troubles.
 * The [CARE team](http://www.longwood.edu/dos/student-issues/care-team/) is Longwiood's safety net that leaves nobody behind.
 
+
+
+[back to TOC](./README.md)
   
 
 ![](.\help.jpeg)
