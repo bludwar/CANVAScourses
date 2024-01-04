@@ -153,3 +153,7 @@ That's a lot of hours! It takes a toll on your brain and body, so take care of y
 3.  **Move.** Get some exercise. That may be a walk around the building or a marathon. It turns out that vigorous exercise is good for the brain! It reduces stress and helps the body deliver fuel and oxygen to the brain.
 4.  **Rest.** Don't always work on class work. Do something fun. Something that gives you a break from thinking about class work. That may be exercising, playing video games, cooking, or just spending time with family and friends. College is demanding, but don't let yourself get burned out.
 5.  **Time.** Everything, especially learning, takes time. Studies show that the longer the time between reviewing the same material, the better a student learns it. Don't expect to learn everything right away. Have patience with yourself, and give yourself the time it takes to grow.
+6.  
+
+
+[back to TOC](./README.md)
