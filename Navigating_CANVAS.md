@@ -11,14 +11,11 @@ While you are probably familiar with CANVAS, here are the basics of where to fin
 
 *   Syllabus: The syllabus spells out all course policies, but it also contains a lot of useful information regarding where to find additional help or resources. If you have any question regarding this course, the syllabus is a great first place to look.
 
-*   Textbook: This is a link to the free OpenStax text book we are using
-
-*   Visible Body Courseware: This is a link to the website we use for lab exercises. You can also go directly to [Visible Body](http://courseware.visiblebody.com/).
-
 *   Student Course Evaluation: You will have the opportunity to provide course feedback through this link.
 
-*   CANVAS grade-book: The **CANVAS grade-book** is in my professional opinion confusing and inadequate, often giving you an inaccurate picture. This is why I typically **disable** it. I'll post available grades by L-number in the first module and you can always email me for an up-to-date grade estimate.
+*   CANVAS grade-book: The **CANVAS grade-book** is in my professional opinion confusing and inadequate, often giving you an inaccurate picture. I'd love to disable it and post the grades in another way, but they won't let me.
 
-
+* For BIOL301: Access to Pearson's Mastering A&P is integrated through a link in Modules (2nd link from the bottom in Start Here!). You have to use this link to synchronize your Mastering account with the course. This link also gives you **access to the eBook textbook**! 
 
   [back to TOC](./README.md)
+
